@@ -11,7 +11,6 @@ Building high-throughput event-driven platforms, enterprise logistics systems, a
 | :--- | :--- | :--- |
 | **Push Notification Re-Architecture** *(AYO / PMI)* | `Bun` `TypeScript` `AWS SQS/SNS` `ECS` `FCM` `PostgreSQL` | Reduced delivery latency from **days to seconds (P99 ≤ 12s)** using fan-out queues on lean 0.5 vCPU / 1GB containers. |
 | **Replenishment Picking List (TOM & Synergy Plan)** *(HM Sampoerna)* | `.NET Framework` `C#` `MS SQL Server` | Engineered multi-drop routing and UoM conversion algorithms; cut route planning from **hours to minutes**. |
-| **AYO Hero / Satria Last Mile Delivery** *(AYO / PMI)* | `PHP/Laravel` `Node.js` `Azure AD` `Espay VA` `WMS ASSA` | Delivered end-to-end LMD platform for **2,000+ field Trade Assistants** with real-time stock sync and automated cash settlement. |
 | **Zero-Downtime Multi-Tenant Migration** *(AYO Jordan)* | `AWS RDS` `MySQL Stored Procedures` | Backfilled and isolated **millions of records with zero downtime** using self-throttling batch procedures and peak-hour kill switches. |
 | **PBO Campus Cloud Migration** *(HM Sampoerna)* | `AWS ECS/RDS/S3` `Docker` `Laravel` `React.js` | Decomposed on-prem monolith into cloud-native microservices, achieving **99.9% uptime**. |
 | **Digital Signature & PrivyID Integration** *(HM Sampoerna)* | `PHP` `XML APIs` `PrivyID` `PeopleSoft` | Digitized **100% of employment contracts** during COVID-19; slashed turnaround from **7 days to under 2 hours**. |
